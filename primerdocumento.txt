@@ -1,3 +1,8 @@
 hola
 como estas
+<<<<<<< HEAD
 hola hola hola
+=======
+como te llmas
+asas
+>>>>>>> d8ba8acd8181f731640dda77da0bd97acc2677f2
